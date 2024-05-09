@@ -1,0 +1,13 @@
+
+C
+java:S1604-"(Make this anonymous inner class a lambda(‘á·¸ıÿÿÿÿ
+>
+java:S1604:"(Make this anonymous inner class a lambda(‚©ñÑ
+>
+java:S1604N"(Make this anonymous inner class a lambda(¯ı©
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùÓ›ûÿÿÿÿ
+E
+java:S18745"/Remove this use of "getText"; it is deprecated.(¦–é…
+J
+java:S1874?"/Remove this use of "getText"; it is deprecated.(„öÖßûÿÿÿÿ
