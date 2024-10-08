@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class Utils {
     public static final String DRIVER="com.mysql.cj.jdbc.Driver";
-    public static final String url="jdbc:mysql://localhost:3306/pro_stumanage?characterEncoding=utf8";
+    public static final String url="jdbc:mysql://localhost:3306/studentmanagement?characterEncoding=utf8";
     public static final String username="root";
     public static final String password="13584064183czHJJ";
         static{
